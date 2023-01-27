@@ -16,7 +16,8 @@ This is a mini project done as a group and purposed to practice teamwork and col
 ## DataSets
 
 <div> Source: <a href="https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5" target="_blank">Chicago Data Portal - Food Inspections.</a> 
-Dataset #1 - Inspections of restaurants and food establishments in Chicago from January 2010 thru Jun 2018. Downloaded as csv </div>
+Dataset #1 - Inspections of restaurants and food establishments in Chicago from January 2010 thru Jun 2018. Downloaded as csv For Dataset #2 API call was used to
+get data covering July 2018 to Jan 2023.</div>
 
 
   
