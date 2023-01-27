@@ -16,8 +16,8 @@ This is a mini project done as a group and purposed to practice teamwork and col
 ## DataSets
 
 <div> Source: <a href="https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5" target="_blank">Chicago Data Portal - Food Inspections.</a> 
-Dataset #1 - Inspections of restaurants and food establishments in Chicago from January 2010 thru Jun 2018. Downloaded as csv For Dataset #2 API call was used to
-get data covering July 2018 to Jan 2023.</div>
+Dataset #1 - Inspections of restaurants and food establishments in Chicago from January 2010 thru Jun 2018. Downloaded as csv. Dataset #2 - API call was used to
+get inspection details from Jul 2018 thru Jan 2023 in json format.</div>
 
 
   
@@ -75,6 +75,9 @@ get data covering July 2018 to Jan 2023.</div>
 - We used SQL in PostgreSQL to create the table. 
 - Finally, we commited our changes and closed the session. 
 
+## Topic Chosen
+
+- Given the timeframe and project requirements, we decided these data sets had the potential to meet the ETL requirements for this project.
 ## API Call Limitations
 
 - The API call has a limitation of the number of records that can be extracted, therefore we only used this data as a way to illustrate for the purposes of this class how to combine two datasets together.
