@@ -1,5 +1,5 @@
 #food_inspection_db 
-CREATE TABLE inspection (
+CREATE TABLE foodinspect (
     inspection_id INT PRIMARY KEY,
     business_name VARCHAR(150) NOT NULL,
     aka_name VARCHAR(150) Default ' ',
